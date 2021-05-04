@@ -12,7 +12,7 @@ public class DemoOpenshhiftApplication {
 
 	@GetMapping("/welocme")
 	public String getWelcome() {
-		return "Welcom to java open Shift.";
+		return "Welcome to java open Shift Green.";
 		
 	}
 	
